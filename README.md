@@ -6,5 +6,7 @@ Fivem ESX Based Vehicle Deleter for jobs
 3. Blips (optional)
 
 
-HOW TO USE THIS SCRIPT
-Drop the folder your scripts and ensure the folder or [folder] and config with your costume locations and server alerts in client.lua
+HOW TO USE THIS SCRIPT:
+-----------------------
+1. Drop the folder your scripts 
+2. ensure the folder or [folder] and config with your costume locations and server alerts in client.lua
