@@ -4,3 +4,7 @@ Fivem ESX Based Vehicle Deleter for jobs
 1. Script based for Hungarian Langluage
 2. This script have extendable locations
 3. Blips (optional)
+
+
+HOW TO USE THIS SCRIPT
+Drop the folder your scripts and ensure the folder or [folder] and config with your costume locations and server alerts in client.lua
